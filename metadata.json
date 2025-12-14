@@ -1,0 +1,9 @@
+{
+  "display": "browser",
+  "type": "web_app",
+  "entry": "index.html",
+  "title": "UX Audit App",
+  "requestFramePermissions": [],
+  "name": "UX Verify 3",
+  "description": ""
+}
